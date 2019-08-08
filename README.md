@@ -13,7 +13,7 @@ with React.js, you will feel right at home with React Native.
 ## What is Expo
 
 React Native is cool, but there are A LOT of moving parts with mobile development.
-Things like device simulators, debugging, building, debugging and publishing can
+Things like device simulators, debugging, navigation, building, and publishing can
 really keep you from even writing your first line of code.
 [Expo]((https://expo.io/)) is a set of tools that streamlines all these things
 for you in really simple CLI commands. It can be compared to a "Create React App"-esque
