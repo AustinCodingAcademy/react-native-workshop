@@ -227,7 +227,7 @@ These provide out-of-the-box components to get you creating great looking apps q
 
 ## How to find other React Native Libraries
 
-The best place to find React Native compatible libraries is [Native Directory](https://www.native.directory/)
+The best place to find React Native compatible libraries is [React Native Directory](https://reactnative.directory/)
 
 ## Frequently Asked Questions
 
